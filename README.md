@@ -12,4 +12,4 @@ Don't have an account? Sign Up
 Sign in with SSO
 Ask Lovable to build intern
 
-Login
+L
