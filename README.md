@@ -10,6 +10,4 @@ Password
 Sig
 Don't have an account? Sign Up
 Sign in with SSO
-Ask Lovable to build intern
-
-L
+Ask Lovable to build int
