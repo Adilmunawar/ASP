@@ -1,14 +1,7 @@
 ![Uploading image.p
 Sign in
 
-Sign in with Google
-Last used
-Sign in with GitHub
-Or
-Email
 
-Email
-Email
 Password
 
 Forgot password?
