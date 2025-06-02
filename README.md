@@ -2,8 +2,6 @@
 Sign in
 
 
-Password
-
 Forgot password?
 Password
 Password
